@@ -25,7 +25,7 @@ h1 {
 .card {
     width: 40%;
     text-align: center;
-    padding: 10px;
+    padding: 20px 10px;
     border-radius: 10px;
     background-color: cadetblue;
     box-shadow: 1px 10px 15px 5px #888888;
@@ -79,4 +79,9 @@ button#check-result:hover {
     background-color: #fff;
     cursor: pointer;
     transition: all 1s;
+}
+
+.large-text {
+    font-size: 1.5rem;
+    color: bisque;
 }
